@@ -43,6 +43,7 @@ return {
     ["pussy"] = "pu{{AIeIXzVZx:ssy}}",
     ["rap"] = "ra{{AIeIXzVZx:p}}",  -- Unstable
     ["retard"] = "reta{{AIeIXzVZx:rd}}",
+    ["retards"] = "reta{{AIeIXzVZx:rds}}",
     ["sex"] = "se{{AIeIXzVZx:x}}",
     ["sexy"] = "se{{AIeIXzVZx:xy}}",
     ["shit"] = "sh{{AIeIXzVZx:it}}",
